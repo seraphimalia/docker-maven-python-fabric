@@ -12,4 +12,4 @@ This image was created specifically for usage with continuous integration system
 
 ### Additional Node Modules
 
-* [Google App Engine Java SDK](https://cloud.google.com/appengine/downloads) - Google APp Engine SDK. Required to deploy to Firebase.
+* [Python Fabric](http://www.fabfile.org/index.html) - Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the use of SSH for application deployment or systems administration tasks.
